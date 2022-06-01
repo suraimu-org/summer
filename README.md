@@ -12,6 +12,7 @@ PHP映射框架，虽有不足，值得一试。
 ![交流群](https://raw.githubusercontent.com/suraimu-org/summer/main/example/550756587.jpg)
 
 校验使用示例
+[校验使用示例图片]([https://jq.qq.com/?_wv=1027&k=QrL9XZ8z](https://github.com/suraimu-org/summer/blob/main/validation.md))
 
 ```php
 <?php
