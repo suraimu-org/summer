@@ -11,6 +11,7 @@ PHP映射框架，虽有不足，值得一试。
 
 校验使用示例
 
+```php
 <?php
 
 use framework\validation\annotation\Length;
@@ -47,3 +48,4 @@ try {
     
     var_dump($e->getMessage());
 }
+```
