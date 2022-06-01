@@ -7,7 +7,7 @@ PHP映射框架，虽有不足，值得一试。
 
 目前处于开发阶段
 
-校验使用示例 [校验使用示例图片](https://jq.qq.com/?_wv=1027&k=QrL9XZ8z](https://github.com/suraimu-org/summer/blob/main/validation.md))
+校验使用示例 [校验使用示例图片](https://github.com/suraimu-org/summer/blob/main/validation.md)
 
 点击链接加入群聊：[【PHP Summer 框架】](https://jq.qq.com/?_wv=1027&k=QrL9XZ8z)
 
