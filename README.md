@@ -9,6 +9,8 @@ PHP映射框架，虽有不足，值得一试。
 
 点击链接加入群聊：[【PHP Summer 框架】](https://jq.qq.com/?_wv=1027&k=QrL9XZ8z)
 
+![交流群](https://raw.githubusercontent.com/suraimu-org/summer/main/example/550756587.jpg)
+
 校验使用示例
 
 ```php
